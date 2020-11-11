@@ -1,2 +1,2 @@
-# Sentimental-Analysis
+# Sentiment-Analysis
  
